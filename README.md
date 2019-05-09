@@ -5,4 +5,4 @@ Little tool to process large data chunks fast, splits data until a delimiter has
 
 fls.exe -f <inputfile> -o <outputfile> -d <delimiter: tab, space, ',', ';', ':'>
 
--- Stephan
+-- Aeneas of Troy
